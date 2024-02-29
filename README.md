@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Khizer Zakir</h1>
-<h3 align="center">A passionate AI for Earth Observation (AI4EO) Scientist</h3>
+<h3 align="center">A passionate **AI for Earth Observation (AI4EO) Scientist**</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khizerzakir" alt="khizerzakir" /></a> </p>
 
