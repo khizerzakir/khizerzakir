@@ -13,7 +13,7 @@
 
 - 👯 I’m working with **APAD (project with Oxford Smith School)**
 
-- 👨‍💻 All of my projects are available at [khizerzakir.com](khizerzakir.com)
+- 👨‍💻 All of my projects are available at [khizerzakir.com](https://khizerzakir.github.io/)
 
 - 📫 How to reach me **kizarzakir@gmail.com**
 
