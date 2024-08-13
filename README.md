@@ -2,9 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Khizer Zakir</h1>
 <h3 align="center">Geospatial data scientist passionate about harnessing AI for Earth observation. Specializing in remote sensing, machine learning, and geospatial analytics. Building solutions for climate change, environmental monitoring, and sustainable development. Let's collaborate on AI4EO projects!</h3>
- 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khizerzakir" alt="khizerzakir" /></a> </p>
+### Latest Career Updates
 
 - 🔭 I've completed my master thesis research on **Deep Learning Classification of Remote Sensing Time Series as Covariance Matrices** 
 
@@ -28,7 +27,6 @@
 <h3 align="left">Skills - Languages and Tools:</h3>
 
   <p align="left">
-
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
     </a>
@@ -89,7 +87,6 @@
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
     </a>
   </p>
-</div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khizerzakir&show_icons=true&locale=en&layout=compact" alt="khizerzakir" /></p>
