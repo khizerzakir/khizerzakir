@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Khizer Zakir</h1>
-<h3 align="center">Geospatial data scientist passionate about harnessing AI for Earth observation. Specializing in remote sensing, machine learning, and geospatial analytics. Building solutions for climate change, environmental monitoring, and sustainable development. 
+<h4 align="center">Geospatial data scientist passionate about harnessing AI for Earth observation. Specializing in remote sensing, machine learning, and geospatial analytics. Building solutions for climate change, environmental monitoring, and sustainable development. 
   
-Let's collaborate on AI4EO projects!</h3>
+Let's collaborate on AI4EO projects!</h4>
 
 <div>
   <h3 align="left">Education and Experience</h3>
@@ -11,9 +11,8 @@ Let's collaborate on AI4EO projects!</h3>
     - 🎓 I've graduated with dual Masters in Geoinformatics and GeoData Science from
     <a href="[https://www.ubs.com/](https://www.univ-ubs.fr/en/index.html)" target="blank" rel="noreferrer">
     </a>
-    <a href=["https://www.plus.edu/"](https://www.plus.ac.at/?lang=en) target="blank" rel="noreferrer">
-    </a>.
-    <br/>
+    <a href="["https://www.plus.edu/"](https://www.plus.ac.at/?lang=en)" target="blank" rel="noreferrer">
+    </a>
     - 🔭 I've completed my master thesis research on <strong>Deep Learning Classification of Remote Sensing Time Series as Covariance Matrices</strong>.
     <br/>
     - 🌱 I’m currently learning <strong>PyTorch, scikit-learn, R Studio, and SPDNet</strong>.
