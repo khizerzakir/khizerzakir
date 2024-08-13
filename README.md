@@ -8,8 +8,15 @@ Let's collaborate on AI4EO projects!</h4>
 <div>
   <h3 align="left">Education and Experience</h3>
   <p align="left">
-    - 🎓 I've graduated with dual Masters in Geoinformatics and GeoData Science from [https://www.ubs.com/](https://www.univ-ubs.fr/en/index.html) 
- and ["https://www.plus.edu/"](https://www.plus.ac.at/?lang=en)
+    - 🎓 I've graduated with dual Masters in Geoinformatics and GeoData Science from
+    <a href="https://www.univ-ubs.fr/en/index.html" target="blank" rel="noreferrer">
+      Université de Bretagne Sud (UBS)
+    </a>
+    and
+    <a href="https://www.plus.ac.at/?lang=en" target="blank" rel="noreferrer">
+      PLUS (Paris-Lodron University of Salzburg)
+    </a>.
+    <br/>
     - 🔭 I've completed my master thesis research on <strong>Deep Learning Classification of Remote Sensing Time Series as Covariance Matrices</strong>.
     <br/>
     - 🌱 I’m currently learning <strong>PyTorch, scikit-learn, R Studio, and SPDNet</strong>.
