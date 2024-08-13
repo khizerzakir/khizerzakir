@@ -8,15 +8,10 @@ Let's collaborate on AI4EO projects!</h3>
 <div>
   <h3 align="left">Education and Experience</h3>
   <p align="left">
-    - 🎓 I've graduated with dual Masters in Geoinformatics and GeoData Science with the [CDE programme](https://master-cde.eu/) from
-    <a href="[CDE programme](https://master-cde.eu/)" target="blank" rel="noreferrer">
-      <img src="[https://via.placeholder.com/40x40.png?text=CDE](https://www.master-cde.eu/wp-content/uploads/2022/09/CMIDE-InLine-logoCMYK.png)" alt="CDE" width="40" height="40"/>
+    - 🎓 I've graduated with dual Masters in Geoinformatics and GeoData Science from
+    <a href="[https://www.ubs.com/](https://www.univ-ubs.fr/en/index.html)" target="blank" rel="noreferrer">
     </a>
-    <a href="https://www.ubs.com/" target="blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/ubs/ubs-icon.svg" alt="UBS" width="40" height="40"/>
-    </a>
-    <a href="https://www.plus.edu/" target="blank" rel="noreferrer">
-      <img src="https://via.placeholder.com/40x40.png?text=PLUS" alt="PLUS" width="40" height="40"/>
+    <a href=["https://www.plus.edu/"](https://www.plus.ac.at/?lang=en) target="blank" rel="noreferrer">
     </a>.
     <br/>
     - 🔭 I've completed my master thesis research on <strong>Deep Learning Classification of Remote Sensing Time Series as Covariance Matrices</strong>.
