@@ -26,14 +26,13 @@
 <a href="https://instagram.com/itskhizerzakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itskhizerzakir" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="left">Skills - Languages and Tools:</h3>
+<div>
+<h3 align="left">Skills - Languages and Tools</h3>
 
   <p align="left">
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
     </a>
-
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     </a>
@@ -90,7 +89,7 @@
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
     </a>
   </p>
-
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khizerzakir&show_icons=true&locale=en&layout=compact" alt="khizerzakir" /></p>
 
