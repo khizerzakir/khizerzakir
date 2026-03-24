@@ -1,14 +1,14 @@
-### Hi there 👋
+## Hello! Salam! Bonjour!👋
 
-<h1 align="center">Hi 👋, I am Khizer Zakir </h1>
+<h1 align="center">Khizer Zakir </h1>
 <h4 align="center">Geospatial data scientist passionate about harnessing AI for Earth observation. Specializing in remote sensing, machine learning, and geospatial analytics. Building solutions for climate change, environmental monitoring, and sustainable development. 
   
-Let's collaborate on AI4EO projects!</h4>
+Let's collaborate on Geospatial and AI4EO projects!</h4>
 
 <div>
   <h3 align="left">Education and Experience</h3>
   <p align="left">
-    - 🎓 I've graduated with dual Masters in <strong> Geoinformatics and GeoData Science </strong> from
+    - 🎓 I've graduated with a joint Masters in <strong> Geoinformatics and GeoData Science </strong> from
     <a href="https://www.univ-ubs.fr/en/index.html" target="blank" rel="noreferrer">
       <strong> Université de Bretagne Sud (UBS)</strong>
     </a>
@@ -17,11 +17,12 @@ Let's collaborate on AI4EO projects!</h4>
       <strong> PLUS (Paris-Lodron University of Salzburg) </strong>
     </a>.
     <br/>
-    - 🔭 I've completed my master thesis research on <strong>Deep Learning Classification of Remote Sensing Time Series as Covariance Matrices</strong>.
+    - I've completed my master thesis research on <strong>Deep Learning Classification of Remote Sensing Time Series as Covariance Matrices</strong>.
     <br/>
-    - 🌱 I’m currently learning <strong>PyTorch, scikit-learn, R Studio, and SPDNet</strong>.
+    - I’m working as Geospatial Researcher @ <strong>University of Salzburg(PLUS)</strong>.
+    - I’m currently learning <strong>PyTorch, scikit-learn, R Studio, and SPDNet</strong>.
     <br/>
-    - 👯 I’m working with <strong>APAD (project with Oxford Smith School)</strong>.
+    - I’m working with <strong>APAD (project with Oxford Smith School)</strong>.
   </p>
 </div>
 
@@ -36,7 +37,7 @@ Let's collaborate on AI4EO projects!</h4>
 <a href="https://twitter.com/khizerzakir_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khizerzakir_98" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/khizer-zakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khizer-zakir" height="30" width="40" /></a>
 <a href="https://kaggle.com/khizerzakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="khizerzakir" height="30" width="40" /></a>
-<a href="https://instagram.com/itskhizerzakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itskhizerzakir" height="30" width="40" /></a>
+
 </p>
 
 <div>
